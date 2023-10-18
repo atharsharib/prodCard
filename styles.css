@@ -89,6 +89,9 @@ h1{
   background-color: hsl(156, 24%, 24%);
 }
 
+.btn:hover::after{
+   background-color: hsl(158, 36%, 37%);
+} 
 
 .mob_img{
   display: none;
